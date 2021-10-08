@@ -1,0 +1,42 @@
+body {
+  background-image: url('1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#a1{
+	 position: absolute;
+  left: 0px;
+  top: 0px;
+  color: white;
+
+}
+#a2{
+	 position: absolute;
+  right:0px;
+  top: 0px;
+   color: white;
+
+}
+#a3{
+	position: absolute;
+  bottom: 0;
+  left: 0;
+
+  color: white;
+ 
+
+}
+#a4{
+	  position: absolute;
+    bottom: 0;
+    right: 0;
+   color: white;
+
+}
+#a5{
+  color: white;
+  text-align: center;
+   padding: 250px 0 250px;
+}
